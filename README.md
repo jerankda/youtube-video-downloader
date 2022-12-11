@@ -1,6 +1,6 @@
 # youtube-video-downloader
 
-This is a simple program that allows you to download YouTube videos by providing the link.
+This is a simple app that allows you to download YouTube videos by providing the link.
 
 ## Requirements
 
