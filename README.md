@@ -11,7 +11,7 @@ This is a simple program that allows you to download YouTube videos by providing
 ## Usage
 
 1. Clone or download this repository.
-2. Run the `downloader.py` script.
+2. Run the `main.py` script.
 3. Enter the YouTube link of the video you want to download.
 4. The video will be downloaded to the current directory.
 
